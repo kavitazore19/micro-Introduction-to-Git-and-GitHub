@@ -1,0 +1,18 @@
+{
+  "id": 987654321,
+  "number": 3,
+  "state": "open",
+  "title": "Bug fix typo revert",
+  "head": {
+    "label": "kavita123:bug-fix-revert",
+    "repo": {
+      "full_name": "kavita123/micro-Introduction-to-Git-and-GitHub",
+      "fork": true
+    }
+  },
+  "base": {
+    "repo": {
+      "full_name": "ibm-developer-skills-network/micro-Introduction-to-Git-and-GitHub"
+    }
+  }
+}
